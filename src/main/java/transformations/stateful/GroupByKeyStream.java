@@ -1,4 +1,4 @@
-package stateful;
+package transformations.stateless.stateful;
 
 import org.apache.kafka.common.serialization.Serde;
 import org.apache.kafka.common.serialization.Serdes;
